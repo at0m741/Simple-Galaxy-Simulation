@@ -8,7 +8,9 @@ From :
 F = G \frac{m_1 m_2}{r^2}
 ```
 to (maybe) :
-
+```math
+G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} Rg_{\mu\nu} = 0
+```
 ```math
 T_k^i=A(\eta^i+{u^\phi\over u^t}\xi^i)u_k(p+\varepsilon)+\delta^i_kp\\
 ```
